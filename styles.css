@@ -79,10 +79,8 @@ article>h2{
     background-color: #a8a8a8;
 }
 
-article>p{
-    font-size: 15px;
-    margin-top: 10px;
-    margin-bottom: 20px;
+li{
+    margin-bottom: 8px;
 }
 
 form>h1{
